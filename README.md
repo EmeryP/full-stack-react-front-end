@@ -7,9 +7,7 @@
 
 
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* Didnt complete tests but will with time
 
 #### UML
-Link to an image of the UML for your application and response to events
+Will submit UML and resubmit assignment in time.
