@@ -1,8 +1,9 @@
 # Full Stack React App
-A full stack React app that fetches a JSON file that lives in the Express backend directory hosted at Heroku and renders the styled JSON.
+This repo contains the front end code for a full stack React app that fetches and renders a styled JSON file that lives in the Express backend directory hosted at Heroku. Follow the `ASW Deployed Site` link below to view the front end running in the browser.
 
 ### Getting Started
-* Follow the links below to view the components of the project. You'll notice that README for the backend details the routes, tests, and UML
+* Follow the links below to view the components of the project. 
+* Visit the [server](https://github.com/EmeryP/full-stack-react-server) repo for backend details
 
 ### Links and Resources
 * [GitHub Repo for Server](https://github.com/EmeryP/full-stack-react-server)
